@@ -1,0 +1,9 @@
+{
+    "file_name": "text.txt",
+    "target_language": "uk",
+    "module_name": "module1",
+    "output": "screen",
+    "max_chars": 600,
+    "max_words": 100,
+    "max_sentences": 5
+}
